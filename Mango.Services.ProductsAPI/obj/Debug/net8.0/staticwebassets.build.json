@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r5jDQtgOrBbhAl4Jn4W0NdP65hLiMsbwdGhweZ+DfDQ=",
+  "Source": "Mango.Services.ProductsAPI",
+  "BasePath": "_content/Mango.Services.ProductsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
