@@ -13,6 +13,7 @@ namespace Mango.Services.AuthAPI.Controllers
 		private readonly IAuthService _authService;
 		protected ResponseDto _responseDto;
 
+		//add something
 		public AuthController(IAuthService authService, ResponseDto responseDto)
 		{
 			_authService = authService;
